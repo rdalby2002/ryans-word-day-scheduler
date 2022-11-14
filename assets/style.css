@@ -70,3 +70,23 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+/*Prevents styling from breaking at smaller screen sizes*/
+@media screen and (max-width: 768px), screen and (max-width: 568px) {
+  .row {
+    height: auto;
+    margin-top: 20px;
+  }
+  .saveBtn {
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+  }
+  .hour {
+    padding-right: 18%;
+  }
+  textarea {
+    min-height: 80px;
+    border: none;
+  }
+}
