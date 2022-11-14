@@ -1,8 +1,8 @@
-# ryans-word-day-scheduler
+# ryans-work-day-scheduler
 
 ## Deployed Page
 
-[Ryan's Workday Scheduler](https://rdalby2002.github.io/ryans-word-day-scheduler/)
+[Ryan's Work Day Scheduler](https://rdalby2002.github.io/ryans-work-day-scheduler/)
 
 ## Description
 
